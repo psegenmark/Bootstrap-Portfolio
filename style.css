@@ -1,0 +1,39 @@
+.card-img-top{
+    height:100px;
+    width:50%;
+    float:left;
+}
+
+.col-lg-6 addpadding {
+    padding:10px;
+    float:left;
+}
+
+.card col-xs-5 addpadding{
+    float:left;
+}
+.container{
+    float:left;
+    padding-left:0;
+}
+.footer-copyright {
+    background-color:black;
+    color:white;
+    height:50px;
+    width:100%;
+    position:fixed;
+    bottom:0px;
+    margin-top:50px;
+}
+
+.imagessidebar{
+    height:100px;
+    width:100px;
+}
+.footerone {
+    margin-bottom:100px;
+}
+
+.card{
+    float:left;
+}
